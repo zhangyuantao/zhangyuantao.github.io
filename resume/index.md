@@ -3,12 +3,12 @@
 ><img src="assets/code.jpg"  width="70" height="70" type="image/jpeg" style="float: right;margin-bottom: 1em; margin-right: -3.05em;">
 >&ensp;教育背景：本科-龙岩学院 | 软件工程 | CET4 | 数据库工程师四级<br>
 >&ensp;岗位意向：游戏研发工程师<br>
->&ensp;联系方式：<img src="assets/电话2.png"  width="22" height="22" type="image/jpeg" style="vertical-align: middle;"> <img src="assets/微信1.png"  width="22" height="22" type="image/jpeg"  style="vertical-align: middle;">13959290970 
+>&ensp;联系方式：<img src="assets/电话2.png"  width="20" height="20" type="image/jpeg" style="vertical-align: middle;"> <img src="assets/微信1.png"  width="20" height="20" type="image/jpeg"  style="vertical-align: middle;">13959290970 
 
 <center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#7cafc2"><strong>工作经历</strong></span>/></span></center>
 
-<strong><span style="color:#b8b8b8">2018.4-至今</span>&ensp;<span style="color:#159957">四三九九网络股份有限公司</span>&ensp;游戏开发工程师</strong>
-><img src="assets/4399.png"  width="70" height="70" type="image/jpeg" style="float: right;margin-top: 0.2em; "> <br>
+><strong><span style="color:#b8b8b8">2018.4-至今</span>&ensp;<span style="color:#159957">四三九九网络股份有限公司</span>&ensp;游戏开发工程师</strong>
+><img src="assets/4399.png"  width="70" height="70" type="image/jpeg"  style="float: right;margin:auto; "> <br>
 >使用 `Egret`引擎开发实时网络对战游戏、休闲单机游戏。<br>
 >熟悉流行的`FairyGUI`UI框架，熟悉`DragonBones`龙骨换装。<br>
 >熟悉游戏开发常见的状态同步、帧同步，熟悉客户端性能优化的一般方法。<br>
@@ -18,7 +18,7 @@
 
 >---
 ><strong><span style="color:#b8b8b8">2017.6-2018.4</span>&ensp;<span style="color:#159957">摩多科技有限公司</span>&ensp;游戏开发工程师</strong>
-><img src="assets/modo.png"  width="70" height="70" type="image/jpeg" style="float: right;margin-top: 0.2em; margin-right: -3.05em; "> <br>
+><img src="assets/modo.png"  width="70" height="70" type="image/jpeg" align="right" style="float: right;margin-top: 0.2em; margin-right: -3.05em; "> <br>
 >项目主开发，双端开发，项目基础框架搭建，主要功能效果实现。<br>
 >参与游戏的需求分析、设计、编码实现等开发工作。<br>
 >客户端采用`Egret`引擎、使用`DragonBones`制作动画，服务端使用`NodeJS`语言、`MongoDB`数据库。<br>
