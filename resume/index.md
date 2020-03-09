@@ -1,6 +1,6 @@
 
 ><span style="font-size:28px;color:#159957;"><strong>张元涛</strong>&nbsp;<span style="color:#b8b8b8;font-size:16px;">男 | 1991 | 福建-龙岩 | 工作经验-5年</span></span><br>
-><img src="assets/code.jpg"  width="70" height="70" type="image/jpeg" style="float: right;margin-bottom: 1em; margin-right: -3.05em;">
+><img src="assets/code.jpg"  width="70" height="70" type="image/jpeg" style="float: right;margin-bottom: 1em;">
 >&ensp;教育背景：本科-龙岩学院 | 软件工程 | CET4 | 数据库工程师四级<br>
 >&ensp;岗位意向：游戏研发工程师<br>
 >&ensp;联系方式：<img src="assets/电话2.png"  width="20" height="20" type="image/jpeg" style="vertical-align: middle;"> <img src="assets/微信1.png"  width="20" height="20" type="image/jpeg"  style="vertical-align: middle;">13959290970 
@@ -18,7 +18,7 @@
 
 >---
 ><strong><span style="color:#b8b8b8">2017.6-2018.4</span>&ensp;<span style="color:#159957">摩多科技有限公司</span>&ensp;游戏开发工程师</strong>
-><img src="assets/modo.png"  width="70" height="70" type="image/jpeg" align="right" style="float: right;margin-top: 0.2em; margin-right: -3.05em; "> <br>
+><img src="assets/modo.png"  width="70" height="70" type="image/jpeg" align="right" style="float: right;margin-top: 0.2em; "> <br>
 >项目主开发，双端开发，项目基础框架搭建，主要功能效果实现。<br>
 >参与游戏的需求分析、设计、编码实现等开发工作。<br>
 >客户端采用`Egret`引擎、使用`DragonBones`制作动画，服务端使用`NodeJS`语言、`MongoDB`数据库。<br>
@@ -26,7 +26,7 @@
 
 >---
 ><strong><span style="color:#b8b8b8">2015.2-2017.6</span>&ensp;<span style="color:#159957">吉比特网络技术股份有限公司</span>&ensp;游戏开发工程师</strong>
-><img src="assets/gbits.png"  width="70" height="70" type="image/jpeg" style="float: right;margin-top: 0.em;  margin-right: -3.05em; "> <br>
+><img src="assets/gbits.png"  width="70" height="70" type="image/jpeg" style="float: right;margin-top: 0.2em; "> <br>
 >前期主要使用`Unity3d`引擎参与项目的预研开发，demo制作，Unity技术探索。<br>
 >后期使用`FlashBuilder`参与了TCG卡牌游戏的制作。<br>
 >双端开发，负责前后端功能系统、数据库的设计与实现，撰写技术文档。<br>
