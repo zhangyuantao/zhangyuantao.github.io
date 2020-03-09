@@ -7,12 +7,14 @@
 
 <center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#7cafc2"><strong>工作经历</strong></span>/></span></center>
 
-<strong><span style="color:#b8b8b8">2018.4-至今</span>&ensp;<span style="color:#159957">四三九九网络股份有限公司</span>&ensp;游戏开发工程师</strong>使用 `Egret`引擎开发实时网络对战游戏、休闲单机游戏。<br>
-熟悉流行的`FairyGUI`UI框架，熟悉`DragonBones`龙骨换装。<br>
-熟悉游戏开发常见的状态同步、帧同步，熟悉客户端性能优化的一般方法。<br>
-各项目主要功能技术难点攻关，撰写技术文档。<br>
-任前端组长，参与前端框架补充与完善，工具组件开发，前端规范完善。<br>
-项目经历：<span style="color:#159957">《八分音符》《飞跃吧》《射箭对决》《羽毛球高手》《乱战英豪》《天黑请闭眼》《停车达人》《花样溜冰》
+<strong><span style="color:#b8b8b8">2018.4-至今</span>&ensp;<span style="color:#159957">四三九九网络股份有限公司</span>&ensp;游戏开发工程师</strong>
+><img src="assets/4399.png"  width="70" height="70" type="image/jpeg" style="float: right;margin-top: 0.2em; "> <br>
+>使用 `Egret`引擎开发实时网络对战游戏、休闲单机游戏。<br>
+>熟悉流行的`FairyGUI`UI框架，熟悉`DragonBones`龙骨换装。<br>
+>熟悉游戏开发常见的状态同步、帧同步，熟悉客户端性能优化的一般方法。<br>
+>各项目主要功能技术难点攻关，撰写技术文档。<br>
+>任前端组长，参与前端框架补充与完善，工具组件开发，前端规范完善。<br>
+>项目经历：<span style="color:#159957">《八分音符》《飞跃吧》《射箭对决》《羽毛球高手》《乱战英豪》《天黑请闭眼》《停车达人》《花样溜冰》
 
 >---
 ><strong><span style="color:#b8b8b8">2017.6-2018.4</span>&ensp;<span style="color:#159957">摩多科技有限公司</span>&ensp;游戏开发工程师</strong>
