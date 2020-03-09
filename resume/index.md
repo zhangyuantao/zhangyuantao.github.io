@@ -3,7 +3,7 @@
 ><img src="assets/code.jpg"  width="70" height="70" type="image/jpeg" style="float: right;margin-bottom: 1em; margin-right: -3.05em;">
 >&ensp;教育背景：本科-龙岩学院 | 软件工程 | CET4 | 数据库工程师四级<br>
 >&ensp;岗位意向：游戏研发工程师<br>
->&ensp;联系方式：<img src="assets/电话2.png"  width="22" height="22" type="image/jpeg" style="vertical-align: middle;"> <img src="assets/微信1.png"  width="22" height="22" type="image/jpeg"  style="vertical-align: middle;"> 13959290970
+>&ensp;联系方式：<img src="assets/电话2.png"  width="22" height="22" type="image/jpeg" style="vertical-align: middle;"> <img src="assets/微信1.png"  width="22" height="22" type="image/jpeg"  style="vertical-align: middle;"><a href="">13959290970</a> 
 
 <center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#7cafc2"><strong>工作经历</strong></span>/></span></center>
 
