@@ -293,7 +293,7 @@ a {
   }
 
   blockquote {
-    padding: 0 0 0 1rem;
+    padding: 0 0.5rem 0 1rem;
     margin-left: 0;
     margin-right: 0;
     color: $blockquote-text-color;
@@ -379,3 +379,7 @@ a {
 .site-footer-credits {
   color: $blockquote-text-color;
 }
+
+.company{
+ margin-bottom: 0.2rem;
+} 
