@@ -15,6 +15,7 @@
 >各项目主要功能技术难点攻关，撰写技术文档。<br>
 >任前端组长，参与前端框架补充与完善，工具组件开发，前端规范完善。<br>
 >项目经历：<span style="color:#42B983">《八分音符》《飞跃吧》《射箭对决》《羽毛球高手》《乱战英豪》《天黑请闭眼》《停车达人》《花样溜冰》
+
 >---
 
 ><strong><span style="color:#b8b8b8">2017.6-2018.4</span>&ensp;<span style="color:#ab4642">摩多科技有限公司</span>&ensp;游戏开发工程师</strong>
@@ -23,6 +24,7 @@
 >参与游戏的需求分析、设计、编码实现等开发工作。<br>
 >客户端采用`Egret`引擎、使用`DragonBones`制作动画，服务端使用`NodeJS`语言、`MongoDB`数据库。<br>
 >项目经历：<span style="color:#42B983">《妖怪来了》《流言侦探》</span>
+
 >---
 
 ><strong><span style="color:#b8b8b8">2015.2-2017.6</span>&ensp;<span style="color:#ab4642">吉比特网络技术股份有限公司</span>&ensp;游戏开发工程师</strong>
