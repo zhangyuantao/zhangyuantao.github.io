@@ -5,7 +5,7 @@
 >&ensp;岗位意向：游戏研发工程师<br>
 >&ensp;联系方式：<img src="assets/电话2.png"  width="22" height="22" type="image/jpeg" style="vertical-align: middle;"> <img src="assets/微信1.png"  width="22" height="22" type="image/jpeg"  style="vertical-align: middle;"> 139-5929-0970
 
-<center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#155799"><strong>工作经历</strong></span>/></span></center>
+<center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#7cafc2"><strong>工作经历</strong></span>/></span></center>
 
 ><strong><span style="color:#b8b8b8">2018.4-至今</span>&ensp;<span style="color:#159957">四三九九网络股份有限公司</span>&ensp;游戏开发工程师</strong>
 ><img src="assets/4399.png"  width="70" height="70" type="image/jpeg" style="float: right; margin-top:0.2em;margin-right: -3.05em; "> <br>
@@ -33,12 +33,12 @@
 >服务端使用`C#`/`MySQL`/`VisualStudio`，客户端使用`AS3`/`Lua`/`FlashBuilder`/`Unity3d`<br>
 >项目经历：<span style="color:#159957">《RumbleBurst》《乱战》《波波利小镇》</span>
 
-<center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#155799"><strong>业余开发</strong></span>/></span></center>
+<center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#7cafc2"><strong>业余开发</strong></span>/></span></center>
 
 >在业余期间使用`Egret`和`CocosCreator`开发微信小游戏。<br>
 >项目经历：<span style="color:#159957">《经典泡泡龙传奇》《猜灯谜大作战》《飞跃行星》</span>
 
-<center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#155799"><strong>自我评价</strong></span>/></span></center>
+<center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#7cafc2"><strong>自我评价</strong></span>/></span></center>
 >熟悉使用Unity、Egret、CocosCreator 进行游戏开发，积累了诸多类型游戏项目经验。<br>
 >具备客户端(Unity/Flash/Egret/CocosCreator)+服务端(C#/NodeJS)开发经验，能胜任双端开发。<br>
 >具备分析解决疑难问题的能力，钻研游戏技术难点，注重经验总结记录，习惯归纳整理。<br>
