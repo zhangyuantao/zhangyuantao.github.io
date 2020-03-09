@@ -295,7 +295,7 @@ a {
     padding: 0 1rem;
     margin-left: 0;
     color: $blockquote-text-color;
-    border-left: 0.3rem solid $border-color;
+    border-left: 3rem solid $border-color;
 
     > :first-child {
       margin-top: 0;
@@ -342,9 +342,9 @@ a {
   }
 
   hr {
-    height: 2px;
+    height: 1px;
     padding: 0;
-    margin: 1rem 0;
+    margin: 0;
     background-color: $hr-border-color;
     border: 0;
   }

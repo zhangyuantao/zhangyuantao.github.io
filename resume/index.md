@@ -1,3 +1,7 @@
+<p style="background-color:#23241F; width:100%; height:50px;line-height:50px;text-align:center;font-size:20px">
+<span style="color:#42B983">我 的 简 历</span>
+</p>
+
 ><span style="font-size:28px;color:#ab4642;"><strong>张元涛</strong>&nbsp;<span style="color:#b8b8b8;font-size:16px;">男 | 1991 | 福建-龙岩</span></span><br>
 ><img src="assets/code.jpg"  width="70" height="70" type="image/jpeg" style="float: right;margin-bottom: 1em; margin-right: -3.05em;">
 >&ensp;<strong>教育背景</strong>：本科2011-2015 | 龙岩学院 | 软件工程 | CET4 | 数据库工程师四级<br>
