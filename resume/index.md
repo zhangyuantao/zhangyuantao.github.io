@@ -1,7 +1,3 @@
-<p style="background-color:#23241F; width:100%; height:50px;line-height:50px;text-align:center;font-size:20px">
-<span style="color:#42B983">我 的 简 历</span>
-</p>
-
 ><span style="font-size:28px;color:#ab4642;"><strong>张元涛</strong>&nbsp;<span style="color:#b8b8b8;font-size:16px;">男 | 1991 | 福建-龙岩</span></span><br>
 ><img src="assets/code.jpg"  width="70" height="70" type="image/jpeg" style="float: right;margin-bottom: 1em; margin-right: -3.05em;">
 >&ensp;<strong>教育背景</strong>：本科2011-2015 | 龙岩学院 | 软件工程 | CET4 | 数据库工程师四级<br>
@@ -10,8 +6,8 @@
 
 <center><span style="color:#b8b8b8"><<span style="color:#42B983"><strong>工作经历</strong></span>/></span></center>
 
-> ##### <span style="color:#b8b8b8">2018.4-至今</span>&ensp;<span style="color:#ab4642"><strong>四三九九网络股份有限公司</strong></span>&ensp;&ensp;游戏开发工程师
-><img src="assets/4399.png"  width="70" height="70" type="image/jpeg" style="float: right; margin-top:0.5em;margin-right: -3.05em; "> <br>
+> <span style="color:#b8b8b8">2018.4-至今</span>&ensp;<span style="color:#ab4642"><strong>四三九九网络股份有限公司</strong></span>&ensp;&ensp;游戏开发工程师
+><img src="assets/4399.png"  width="70" height="70" type="image/jpeg" style="float: right; margin-top:0.1em;margin-right: -3.05em; "> <br>
 >使用 `Egret`引擎开发实时网络对战游戏、休闲单机游戏。<br>
 >熟悉流行的`FairyGUI`UI框架，熟悉`DragonBones`龙骨换装。<br>
 >熟悉游戏开发常见的状态同步、帧同步，熟悉客户端性能优化的一般方法。<br>
@@ -21,7 +17,7 @@
 
 >---
 ><span style="color:#b8b8b8">2017.6-2018.4</span>&ensp;<span style="color:#ab4642"><strong>摩多科技有限公司</strong></span>&ensp;&ensp;游戏开发工程师
-><img src="assets/modo.png"  width="70" height="70" type="image/jpeg" style="float: right;margin-top: 0.5em; margin-right: -3.05em; "> <br>
+><img src="assets/modo.png"  width="70" height="70" type="image/jpeg" style="float: right;margin-top: 0.1em; margin-right: -3.05em; "> <br>
 >项目主开发，双端开发，项目基础框架搭建，主要功能效果实现。<br>
 >参与游戏的需求分析、设计、编码实现等开发工作。<br>
 >客户端采用`Egret`引擎、使用`DragonBones`制作动画，服务端使用`NodeJS`语言、`MongoDB`数据库。<br>
@@ -29,7 +25,7 @@
 
 >---
 ><span style="color:#b8b8b8">2015.2-2017.6</span>&ensp;<span style="color:#ab4642"><strong>吉比特网络技术股份有限公司</strong></span>&ensp;&ensp;游戏开发工程师
-><img src="assets/gbits.png"  width="70" height="70" type="image/jpeg" style="float: right;margin-top: 0.5em;  margin-right: -3.05em; "> <br>
+><img src="assets/gbits.png"  width="70" height="70" type="image/jpeg" style="float: right;margin-top: 0.1em;  margin-right: -3.05em; "> <br>
 >前期主要使用`Unity3d`引擎参与项目的预研开发，demo制作，Unity技术探索。<br>
 >后期使用`FlashBuilder`参与了TCG卡牌游戏的制作。<br>
 >双端开发，负责前后端功能系统、数据库的设计与实现，撰写技术文档。<br>
