@@ -1,19 +1,17 @@
 <p style="background-color:#23241F; width:100%; height:50px;line-height:50px;text-align:center;font-size:20px">
-<strong>
 <span style="color:#42B983">我 的 简 历</span>
-</strong>
 </p>
 
 ><span style="font-size:28px;color:#ab4642;">**张元涛**&nbsp;<span style="color:#b8b8b8;font-size:16px;">男 | 1991 | 福建-龙岩</span></span><br>
 ><img src="assets/code.jpg"  width="70" height="70" type="image/jpeg" style="float: right;margin-bottom: 1em; margin-right: -3.05em;">
->&ensp;教育背景：本科2011-2015 | 龙岩学院 | 软件工程 | CET4 | 数据库工程师四级<br>
->&ensp;岗位意向：游戏研发工程师<br>
->&ensp;联系方式：<img src="assets/电话2.png"  width="22" height="22" type="image/jpeg" style="vertical-align: middle;"> <img src="assets/微信1.png"  width="22" height="22" type="image/jpeg"  style="vertical-align: middle;"> 139-5929-0970
+>&ensp;**教育背景**：本科2011-2015 | 龙岩学院 | 软件工程 | CET4 | 数据库工程师四级<br>
+>&ensp;**岗位意向**：游戏研发工程师<br>
+>&ensp;**联系方式**：<img src="assets/电话2.png"  width="22" height="22" type="image/jpeg" style="vertical-align: middle;"> <img src="assets/微信1.png"  width="22" height="22" type="image/jpeg"  style="vertical-align: middle;"> 139-5929-0970
 
-### <center><span style="color:#b8b8b8"><<span style="color:#42B983">工作经历</span>/></span></center>
+### <center><span style="color:#b8b8b8"><<span style="color:#42B983">**工作经历**</span>/></span></center>
 
 ><span style="color:#b8b8b8">2018.4-至今</span>&ensp;<span style="color:#ab4642">**四三九九网络股份有限公司**</span>&ensp;&ensp;游戏开发工程师
-><img src="assets/4399.png"  width="70" height="70" type="image/jpeg" style="float: right; margin-bottom:1em;margin-right: -3.05em; "> 
+><img src="assets/4399.png"  width="70" height="70" type="image/jpeg" style="float: right; margin-bottom:2em;margin-right: -3.05em; "> 
 >使用 `Egret`引擎开发实时网络对战游戏、休闲单机游戏。<br>
 >熟悉流行的`FairyGUI`UI框架，熟悉`DragonBones`龙骨换装。<br>
 >熟悉游戏开发常见的状态同步、帧同步，熟悉客户端性能优化的一般方法。<br>
@@ -22,7 +20,7 @@
 >项目经历：<span style="color:#42B983">《八分音符》《飞跃吧》《射箭对决》《羽毛球高手》《乱战英豪》《天黑请闭眼》《停车达人》《花样溜冰》
 
 >---
->#### <span style="color:#b8b8b8">2017.6-2018.4</span>&ensp;<span style="color:#ab4642">摩多科技有限公司</span>&ensp;&ensp;游戏开发工程师
+>#### <span style="color:#b8b8b8">2017.6-2018.4</span>&ensp;<span style="color:#ab4642">**摩多科技有限公司**</span>&ensp;&ensp;游戏开发工程师
 ><img src="assets/modo.png"  width="70" height="70" type="image/jpeg" style="float: right;margin-bottom: 1em; margin-right: -3.05em; "> 
 >项目主开发，双端开发，项目基础框架搭建，主要功能效果实现。<br>
 >参与游戏的需求分析、设计、编码实现等开发工作。<br>
@@ -30,15 +28,15 @@
 >项目经历：<span style="color:#42B983">《妖怪来了》《流言侦探》</span>
 
 >---
->#### <span style="color:#b8b8b8">2015.2-2017.6</span>&ensp;<span style="color:#ab4642">吉比特网络技术股份有限公司</span>&ensp;&ensp;游戏开发工程师
-><img src="assets/gbits.png"  width="70" height="70" type="image/jpeg" style="float: right;margin-bottom: 1em;  margin-right: -3.05em; "> 
+>#### <span style="color:#b8b8b8">2015.2-2017.6</span>&ensp;<span style="color:#ab4642">**吉比特网络技术股份有限公司**</span>&ensp;&ensp;游戏开发工程师
+><img src="assets/gbits.png"  width="70" height="70" type="image/jpeg" style="float: right;margin-bottom: 3em;  margin-right: -3.05em; "> 
 >前期主要使用`Unity3d`引擎参与项目的预研开发，demo制作，Unity技术探索。<br>
 >后期使用`FlashBuilder`参与了TCG卡牌游戏的制作。<br>
 >双端开发，负责前后端功能系统、数据库的设计与实现，撰写技术文档。<br>
 >服务端使用`C#`/`MySQL`/`VisualStudio`，客户端使用`AS3`/`Lua`/`FlashBuilder`/`Unity3d`<br>
 >项目经历：<span style="color:#42B983">《RumbleBurst》《乱战》《波波利小镇》</span>
 
-### <center><span style="color:#b8b8b8"><<span style="color:#7cafc2">业余开发</span>/></span></center>
+### <center><span style="color:#b8b8b8"><<span style="color:#7cafc2">**业余开发**</span>/></span></center>
 
 >在业余期间使用`Egret`和`CocosCreator`开发微信小游戏。
 >项目经历：<span style="color:#42B983">《经典泡泡龙传奇》《猜灯谜大作战》《飞跃行星》</span>
@@ -52,12 +50,12 @@
 >+ 态度端正，人际关系优，完美主义者。伪文艺程序猿，静喜书法动爱篮球，爱生活爱运动！<br>
 
 <p style="background-color:#23241F; width:100%; height:26px;line-height:26px;text-align:center;font-size:14px">
-<strong><i>
+<i>
 <span style="color:#a1b56c">T</span>
 <span style="color:#dc9656">h</span>
 <span style="color:#f7ca88">a</span>
 <span style="color:#7cafc2">n</span>
 <span style="color:#ba8baf">k</span>
 <span style="color:#ffffff">s</span>
-</i></strong>
+</i>
 </p>
