@@ -1,18 +1,6 @@
-<p style="background-color:#23241F; width:100%; height:64px;line-height:64px;text-align:center;font-size:16px">
+<p style="background-color:#23241F; width:100%; height:50px;line-height:50px;text-align:center;font-size:20px">
 <strong>
-<i>
-<span style="color:#ab4642">博</span>
-<span style="color:#dc9656">观</span>
-<span style="color:#7cafc2">而</span>
-<span style="color:#a1b56c">约</span>
-<span style="color:#ffffff">取</span>
-<span style="color:#ffffff">,</span>
-<span style="color:#ffffff">厚</span>
-<span style="color:#a1b56c">积</span>
-<span style="color:#7cafc2">而</span>
-<span style="color:#dc9656">薄</span>
-<span style="color:#ab4642">发</span>
-</i>
+<span style="color:#42B983">我 的 简 历</span>
 </strong>
 </p>
 
@@ -22,7 +10,7 @@
 >&ensp;**岗位意向：**游戏研发工程师
 >&ensp;**联系方式：**![手机|20*20](assets/电话2.png) ![微信|20*20](assets/微信1.png)139-5929-0970
 
-####<center><span style="color:#b8b8b8"><<span style="color:#42B983">工作经历</span>/></span></center></center>
+####<center><span style="color:#b8b8b8"><<span style="color:#42B983">工作经历</span>/></span></center>
 
 >##### ![Alt text|right|70*70](assets/4399.png) <span style="color:#b8b8b8">2018.4-至今</span>&ensp;<span style="color:#ab4642">四三九九网络股份有限公司</span>&ensp;&ensp;游戏开发工程师
 >使用 `Egret`引擎开发实时网络对战游戏、休闲单机游戏。
@@ -47,21 +35,18 @@
 >服务端使用`C#`/`MySQL`/`VisualStudio`，客户端使用`AS3`/`Lua`/`FlashBuilder`/`Unity3d`
 >项目经历：<span style="color:#42B983">《RumbleBurst》《乱战》《波波利小镇》</span>
 
-####<center><span style="color:#b8b8b8"><<span style="color:#7cafc2">业余开发</span>/></span></center></center>
+####<center><span style="color:#b8b8b8"><<span style="color:#7cafc2">业余开发</span>/></span></center>
 
 >在业余期间使用`Egret`和`CocosCreator`开发微信小游戏。
 >项目经历：<span style="color:#42B983">《经典泡泡龙传奇》《猜灯谜大作战》《飞跃行星》</span>
 
-####<center><span style="color:#b8b8b8"><<span style="color:#dc9656">自我评价</span>/></span></center></center>
+####<center><span style="color:#b8b8b8"><<span style="color:#dc9656">自我评价</span>/></span></center>
 >+ 熟悉使用Unity、Egret、CocosCreator 进行游戏开发，积累了诸多类型游戏项目经验。
 >+ 具备客户端(Unity/Flash/Egret/CocosCreator)+服务端(C#/NodeJS)开发经验，能胜任双端开发。
 >+ 具备分析解决疑难问题的能力，钻研游戏技术难点，注重经验总结记录，习惯归纳整理。
 >+ 良好的开发习惯与编码规范，乐于学习跟进游戏开发技术和资讯，关注游戏领域动态。
 >+ 团队工作中不盲目执行，勤思考，提出优化和建议，持续发现及改进工作方法提高开发效率。
 >+ 态度端正，人际关系优，完美主义者。伪文艺程序猿，静喜书法动爱篮球，爱生活爱运动！
-
-
-@(技能标签)[Unity, Egret, CocosCreator, Flash, DragonBones, C#, .NET, SQL, AS, JS, TS, Web, WinForm]
 
 <p style="background-color:#23241F; width:100%; height:26px;line-height:26px;text-align:center;font-size:14px">
 <strong><i>
