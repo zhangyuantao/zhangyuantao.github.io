@@ -12,7 +12,7 @@ description: 我的简历
 
 <center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#7cafc2"><strong>工作经历</strong></span>/></span></center>
 
-><strong><span style="color:#b8b8b8">2018.4-至今</span>&ensp;<span id="company" style="font-size: 20px;color:#159957">四三九九网络股份有限公司</span>&ensp;游戏开发工程师</strong>
+><strong style="margin-bottom: 0.1em;"><span style="color:#b8b8b8">2018.4-至今</span>&ensp;<span style="font-size: 20px;color:#159957">四三九九网络股份有限公司</span>&ensp;游戏开发工程师</strong>
 ><img src="assets/4399.png"  width="70" height="70" type="image/jpeg"  style="float: right;margin-left: 1em; "> <br>
 >使用 `Egret`引擎开发实时网络对战游戏、休闲单机游戏。<br>
 >使用流行的`FairyGUI`UI框架，熟悉`DragonBones`龙骨换装。<br>
@@ -22,7 +22,7 @@ description: 我的简历
 >项目经历：<span style="color:#159957">《八分音符》《飞跃吧》《射箭对决》《羽毛球高手》《乱战英豪》《天黑请闭眼》《停车达人》《花样溜冰》
 
 >---
-><strong><span style="color:#b8b8b8">2017.6-2018.4</span>&ensp;<span id="company" style="font-size: 20px;color:#159957">摩多科技有限公司</span>&ensp;游戏开发工程师</strong>
+><strong style="margin-bottom: 0.1em;"><span style="color:#b8b8b8">2017.6-2018.4</span>&ensp;<span style="font-size: 20px;color:#159957">摩多科技有限公司</span>&ensp;游戏开发工程师</strong>
 ><img src="assets/modo.png"  width="70" height="70" type="image/jpeg" align="right" style="float: right;margin-top: 0em;margin-left: 1em; "> <br>
 >项目主开发，双端开发，项目基础框架搭建，主要功能效果实现。<br>
 >参与游戏的需求分析、设计、编码实现等开发工作。<br>
@@ -30,7 +30,7 @@ description: 我的简历
 >项目经历：<span style="color:#159957">《妖怪来了》《流言侦探》</span>
 
 >---
-><strong><span style="color:#b8b8b8">2015.2-2017.6</span>&ensp;<span id="company" style="font-size: 20px;color:#159957">吉比特网络技术股份有限公司</span>&ensp;游戏开发工程师</strong>
+><strong style="margin-bottom: 0.1em;"><span style="color:#b8b8b8">2015.2-2017.6</span>&ensp;<span style="font-size: 20px;color:#159957">吉比特网络技术股份有限公司</span>&ensp;游戏开发工程师</strong>
 ><img src="assets/gbits.png"  width="70" height="70" type="image/jpeg" style="float: right;margin-top: 0em; margin-left: 1em;"> <br>
 >前期主要使用`Unity3d`引擎参与项目的预研开发，demo制作，Unity技术探索。<br>
 >后期使用`FlashBuilder`参与了TCG卡牌游戏的制作。<br>
@@ -51,7 +51,7 @@ description: 我的简历
 >团队工作中不盲目执行，勤思考，提出优化和建议，持续发现及改进工作方法提高开发效率。<br>
 >态度端正，人际关系优，完美主义者。伪文艺程序猿，静喜书法动爱篮球，爱生活爱运动！<br>
 
-<p id="botInfo">
+<p id="botInfo" style="width:100%; height:26px;line-height:26px;text-align:center;font-size:14px;background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);">
 <i>
 <span style="color:#a1b56c">T</span>
 <span style="color:#dc9656">h</span>
