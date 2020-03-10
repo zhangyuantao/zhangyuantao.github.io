@@ -51,13 +51,8 @@ description: 我的简历
 >团队工作中不盲目执行，勤思考，提出优化和建议，持续发现及改进工作方法提高开发效率。<br>
 >态度端正，人际关系优，完美主义者。伪文艺程序猿，静喜书法动爱篮球，爱生活爱运动！<br>
 
-<p id="botInfo" style="width:100%; height:26px;line-height:26px;text-align:center;font-size:14px;background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);">
+<p id="botInfo">
 <i>
-<span style="color:#a1b56c">T</span>
-<span style="color:#dc9656">h</span>
-<span style="color:#f7ca88">a</span>
-<span style="color:#7cafc2">n</span>
-<span style="color:#ba8baf">k</span>
-<span style="color:#ffffff">s</span>
+<span style="color:#ffffff">Thanks</span>
 </i>
 </p>
