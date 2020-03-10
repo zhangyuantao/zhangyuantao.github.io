@@ -62,4 +62,4 @@ description: 我的简历
 </i>
 </p>
 
-[Go Home](./)
+[Go Home](././)
