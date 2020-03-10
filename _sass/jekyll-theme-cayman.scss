@@ -377,5 +377,14 @@ a {
 }
 
 .site-footer-credits {
+  width:100%; 
+  height:26px;
+  line-height:26px;
+  text-align:center;
+  font-size:14px;
   color: $blockquote-text-color;
+}
+
+.botInfo{
+   background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
 }

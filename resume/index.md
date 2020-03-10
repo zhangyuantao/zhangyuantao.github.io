@@ -8,7 +8,7 @@ description: 我的简历
 ><img src="assets/code.jpg"  width="70" height="70" type="image/jpeg" style="float: right;margin-bottom: 0em;">
 >&nbsp;教育背景：本科-龙岩学院 | 软件工程 | CET4 | 数据库工程师四级<br>
 >&nbsp;岗位意向：游戏研发工程师<br>
->&nbsp;联系方式：<img src="assets/电话2.png"  width="20" height="20" type="image/jpeg" style="vertical-align: top;"><img src="assets/微信1.png"  width="20" height="20" type="image/jpeg"  style="vertical-align: middle;">13959290970 
+>&nbsp;联系方式：<img src="assets/电话2.png"  width="20" height="20" type="image/jpeg" style="vertical-align: middle;"><img src="assets/微信1.png"  width="20" height="20" type="image/jpeg"  style="vertical-align: middle;">13959290970 
 
 <center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#7cafc2"><strong>工作经历</strong></span>/></span></center>
 
@@ -51,7 +51,7 @@ description: 我的简历
 >团队工作中不盲目执行，勤思考，提出优化和建议，持续发现及改进工作方法提高开发效率。<br>
 >态度端正，人际关系优，完美主义者。伪文艺程序猿，静喜书法动爱篮球，爱生活爱运动！<br>
 
-<p style="background-color:#23241F; width:100%; height:26px;line-height:26px;text-align:center;font-size:14px">
+<p id="botInfo">
 <i>
 <span style="color:#a1b56c">T</span>
 <span style="color:#dc9656">h</span>
