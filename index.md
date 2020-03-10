@@ -2,6 +2,6 @@
 layout: default
 ---
 
+[我的简历](./resume).
 
-[Link to another page](./another-page.html).
-[Link to Resume](./resume).
+[待完善](./another-page.html).
