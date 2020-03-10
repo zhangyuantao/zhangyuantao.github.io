@@ -1,9 +1,9 @@
 
 ><span style="font-size:28px;color:#159957;"><strong>张元涛</strong>&nbsp;<span style="color:#b8b8b8;font-size:16px;">男 | 1991 | 福建-龙岩 | 工作经验-5年</span></span><br>
 ><img src="assets/code.jpg"  width="70" height="70" type="image/jpeg" style="float: right;margin-bottom: 0em;">
->教育背景：本科-龙岩学院 | 软件工程 | CET4 | 数据库工程师四级<br>
->岗位意向：游戏研发工程师<br>
->联系方式：<img src="assets/电话2.png"  width="20" height="20" type="image/jpeg" style="vertical-align: middle;"><img src="assets/微信1.png"  width="20" height="20" type="image/jpeg"  style="vertical-align: middle;">13959290970 
+> 教育背景：本科-龙岩学院 | 软件工程 | CET4 | 数据库工程师四级<br>
+> 岗位意向：游戏研发工程师<br>
+> 联系方式：<img src="assets/电话2.png"  width="20" height="20" type="image/jpeg" style="vertical-align: middle;"><img src="assets/微信1.png"  width="20" height="20" type="image/jpeg"  style="vertical-align: middle;">13959290970 
 
 <center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#7cafc2"><strong>工作经历</strong></span>/></span></center>
 
