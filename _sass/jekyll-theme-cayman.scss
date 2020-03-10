@@ -1,3 +1,4 @@
+@import "my";
 @import "normalize";
 @import "rouge-github";
 @import "variables";
@@ -378,13 +379,4 @@ a {
 
 .site-footer-credits { 
  color: $blockquote-text-color;
-}
-
-#botInfo{
-  width:100%; 
-  height:24px;
-  line-height:24px;
-  text-align:center;
-  font-size:14px;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
 }
