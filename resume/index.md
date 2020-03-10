@@ -61,5 +61,3 @@ description: 我的简历
 <span style="color:#ffffff">s</span>
 </i>
 </p>
-
-[Go Home](../)
