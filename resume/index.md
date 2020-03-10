@@ -5,12 +5,12 @@ description: 我的简历
 ---
 
 ><span style="font-size:28px;color:#159957;"><strong>张元涛</strong>&nbsp;<span style="color:#b8b8b8;font-size:16px;">男 | 1991 | 福建-龙岩 | 工作经验-5年</span></span><br>
-><img src="assets/code.jpg"  width="70" height="70" type="image/jpeg" style="float: right;margin-bottom: 0em;">
+><img  class="logo" src="assets/code.jpg"  width="70" height="70" type="image/jpeg">
 >&nbsp;<span style="color:#009999">教育背景</span>：本科-龙岩学院 | 软件工程 | CET4 | 数据库工程师四级<br>
 >&nbsp;<span style="color:#009999">岗位意向</span>：游戏研发工程师<br>
 >&nbsp;<span style="color:#009999">联系方式</span>：<img src="assets/电话2.png"  width="20" height="20" type="image/jpeg" style="vertical-align: middle;"><img src="assets/微信1.png"  width="20" height="20" type="image/jpeg"  style="vertical-align: middle;">13959290970 
 
-<center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#7cafc2"><strong>工作经历</strong></span>/></span></center>
+<center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#009999"><strong>工作经历</strong></span>/></span></center>
 
 
 ><img class="logo" src="assets/4399.png"  width="70" height="70" type="image/jpeg">
@@ -39,12 +39,12 @@ description: 我的简历
 >服务端使用`C#`/`MySQL`/`VisualStudio`，客户端使用`AS3`/`Lua`/`FlashBuilder`/`Unity3d`<br>
 >项目经历：<span style="color:#009999">《RumbleBurst》《乱战》《波波利小镇》</span>
 
-<center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#7cafc2"><strong>业余开发</strong></span>/></span></center>
+<center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#009999"><strong>业余开发</strong></span>/></span></center>
 
 >在业余期间使用`Egret`和`CocosCreator`开发微信小游戏。<br>
 >项目经历：<span style="color:#009999">《经典泡泡龙传奇》《猜灯谜大作战》《飞跃行星》</span>
 
-<center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#7cafc2"><strong>自我评价</strong></span>/></span></center>
+<center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#009999"><strong>自我评价</strong></span>/></span></center>
 >熟悉使用Unity、Egret、CocosCreator 进行游戏开发，积累了诸多类型游戏项目经验。<br>
 >具备客户端(Unity/Flash/Egret/CocosCreator)+服务端(C#/NodeJS)开发经验，能胜任双端开发。<br>
 >具备分析解决疑难问题的能力，钻研游戏技术难点，注重经验总结记录，习惯归纳整理。<br>
