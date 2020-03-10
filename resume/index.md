@@ -4,7 +4,7 @@ title: Think Different
 description: 我的简历
 ---
 
-><span style="font-size:28px;color:#159957;"><strong>张元涛</strong>&nbsp;<span style="color:#b8b8b8;font-size:16px;">男|1991|福建长汀|5年经验</span></span><br>
+><span style="font-size:28px;color:#159957;"><strong>张元涛</strong>&nbsp;<span style="color:#b8b8b8;font-size:16px;">男|1991|厦门|5年经验</span></span><br>
 ><img  style="float:right; margin-left:0.6em;" src="assets/code.jpg"  width="70" height="70" type="image/jpeg">
 >&nbsp;教育背景：龙岩学院|本科|软件工程|CET4|数据库工程师四级<br>
 >&nbsp;岗位意向：游戏研发工程师<br>
