@@ -41,17 +41,17 @@ description: 我的简历
 
 <center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#009999"><strong>业余开发</strong></span>/></span></center>
 
->在业余期间与朋友讨论游戏创意，demo玩法验证，目标是设计出差异化的创意游戏。
->有使用`Egret`和`CocosCreator`开发小游戏，熟悉微信小游戏，头条小游戏的接入与上线。
+>在业余期间与朋友讨论游戏创意，demo玩法验证，目标是设计差异化的创意游戏。<br>
+>有使用`Egret`和`CocosCreator`开发小游戏，熟悉微信小游戏，头条小游戏的接入与上线。<br>
 >上线的小游戏项目：《经典泡泡龙传奇》《猜灯谜大作战》《飞跃行星》
 
 <center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#009999"><strong>自我评价</strong></span>/></span></center>
 >熟悉使用Unity、Egret、CocosCreator 进行游戏开发，积累了诸多类型游戏项目经验。<br>
->具备客户端(Unity/Flash/Egret/CocosCreator)+服务端(C#/NodeJS)开发经验，能胜任双端开发。<br>
+>具备客户端(Unity/Flash/Egret/CocosCreator)+服务端(C#/NodeJS)开发经验，能胜任双端开发。
 >具备分析解决疑难问题的能力，钻研游戏技术难点，注重经验总结记录，习惯归纳整理。<br>
 >良好的开发习惯与编码规范，致力于开发出高质量易维护游戏。<br>
->乐于学习跟进游戏开发技术和资讯。对游戏行业充满信心，希望能在开发领域有所建树。
->团队工作中不盲目执行，勤思考，提出优化和建议，持续发现及改进工作方法提高开发效率。<br>
+>乐于学习跟进游戏开发技术和资讯。对游戏行业充满信心，希望能在开发领域有所建树。<br>
+>团队工作中勤思考，不盲目执行，提出优化和建议，持续发现及改进工作方法提高开发效率。<br>
 >态度端正，人际关系优，完美主义者。喜欢书法、篮球，爱生活爱运动！<br>
 
 <p id="botInfo">
