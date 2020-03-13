@@ -14,43 +14,43 @@ description: 我的简历
 
 ><img style="float:right; margin:0.6em 0 0 0.6em;" src="assets/4399.png"  width="70" height="70" type="image/jpeg">
 ><strong style="line-height: 2;"><span style="color:#b8b8b8">2018.4-至今</span>&ensp;<span style="font-size: 19px;color:#159957">四三九九网络股份有限公司</span>&ensp;游戏开发工程师</strong><br>
->使用 `Egret``FairyGUI``DragonBones`开发实时网络对战游戏、休闲单机游戏。<br>
+>使用Egret，FairyGUI，DragonBones开发实时网络对战游戏、休闲单机游戏。<br>
 >各项目主要功能技术难点攻关，并形成技术文档。<br>
 >任前端组长，参与前端规范完善，开发框架完善，工具组件开发。<br>
->项目经历：《八分音符》《飞跃吧》《射箭对决》《羽毛球高手》《乱战英豪》《天黑请闭眼》《停车达人》《花样溜冰》
+>项目经历：《八分音符》《飞跃吧》《射箭对决》《羽毛球高手》《乱战英豪》《天黑请闭眼》《停车达人》《花样溜冰》《NoThanks》
 
 >---
 ><img style="float:right; margin:0.6em 0 0 0.6em;" src="assets/modo.png"  width="70" height="70" type="image/jpeg">
 ><strong style="line-height: 2;"><span style="color:#b8b8b8">2017.6-2018.4</span>&ensp;<span style="font-size: 19px;color:#159957">摩多科技有限公司</span>&ensp;游戏开发工程师</strong><br>
 >项目主开发，项目基础框架搭建，主要功能效果实现等开发工作。<br>
 >双端开发，参与游戏的需求分析、设计、编码实现。<br>
->客户端使用`Egret``TypeScript``DragonBones`，服务端使用`NodeJS``MongoDB`。<br>
->项目经历：《妖怪来了》《流言侦探》
+>客户端使用Egret，TypeScript，DragonBones，服务端使用NodeJS，MongoDB。<br>
+>项目经历：《妖怪来了》《流言侦探》《奇迹H5》
 
 >---
 ><img style="float:right; margin:0.6em 0 0 0.6em;" src="assets/gbits.png"  width="70" height="70" type="image/jpeg">
 ><strong style="line-height: 2;"><span style="color:#b8b8b8">2015.2-2017.6</span>&ensp;<span style="font-size: 19px;color:#159957">吉比特网络技术股份有限公司</span>&ensp;游戏开发工程师</strong><br>
->前期主要使用`Unity`参与项目的预研开发，demo制作，技术探索。<br>
->后期使用`FlashBuilder`参与了TCG卡牌游戏的制作。<br>
+>使用Unity参与项目的预研开发，demo制作，技术探索。<br>
+>使用FlashBuilder参与了TCG卡牌游戏的制作。<br>
 >双端开发，负责前后端功能系统、数据库的设计与实现。<br>
->客户端使用`AS3``Lua``Unity`，服务端使用`C#``MySQL`。<br>
+>客户端使用AS3，Lua，Unity，服务端使用C#，MySQL。<br>
 >项目经历：《RumbleBurst》《乱战》《波波利小镇》
 
 <center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#009999"><strong>业余开发</strong></span>/></span></center>
 
->在业余期间与朋友讨论游戏创意，制作demo验证玩法，目标是设计差异化的创意游戏。<br>
->使用`Egret`和`CocosCreator`开发小游戏，熟悉微信、头条小游戏的接入与上线。<br>
+>在业余期间与朋友探讨创意想法，设计差异化的游戏，制作demo验证玩法。<br>
+>使用Egret和CocosCreator开发小游戏，熟悉微信、头条小游戏的接入与上线。<br>
 >上线游戏：《经典泡泡龙传奇》《猜灯谜大作战》《飞跃行星》
 
 <center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#009999"><strong>自我评价</strong></span>/></span></center>
->熟悉使用Unity、Egret、CocosCreator 进行游戏开发，积累了多类型游戏项目开发经验。<br>
 >具备客户端Unity/Flash/Egret/CocosCreator+服务端C#/NodeJS开发经验，能胜任双端开发。<br>
->熟悉状态同步、帧同步，熟悉客户端性能优化的一般方法。<br>
+>熟悉使用Unity、Egret、CocosCreator 进行游戏开发，积累了多类型游戏项目开发经验。<br>
+>熟悉状态同步，帧同步，常见的设计模式，客户端性能优化。<br>
 >具备分析解决疑难问题的能力，喜欢钻研游戏技术难点，注重经验总结，习惯归纳整理。<br>
->良好的开发习惯与编码规范，致力于开发出高质量易维护游戏。<br>
->团队工作中勤思考，不盲目执行，提出优化和建议，持续发现及改进工作方法提高工作效率。<br>
->乐于学习和跟进游戏开发相关技术和资讯，对游戏行业充满信心，希望能在开发领域有所建树。<br>
->态度端正，认真负责，积极主动，完美主义者。人际关系优，喜欢书法、篮球，爱生活爱运动！<br>
+>良好的开发习惯与编码规范，注重代码质量，致力于开发出高质量易维护游戏。<br>
+>勤思考，不盲目执行，提出优化和建议，持续发现及改进工作方法提高工作效率。<br>
+>乐于学习和跟进游戏开发相关技术和资讯，希望在职业上持续积累成长。<br>
+>态度端正，认真负责，积极主动。人际关系优，喜欢书法、篮球。<br>
 
 <p id="botInfo">
 <i>
