@@ -1,0 +1,100 @@
+{
+	"groups": [
+		{
+			"keys": "leapConfig_json,leap_atlas0,leap_atlas1,leap,back_music_mp3,black_explosion_mp3,Decrease_swap_1_mp3,DM-CGS-10_edited_mp3,gravityeffect2_mp3,Increase_chord_1_edited_mp3,multiplier2_mp3,newHighScore_mp3,power_1_b_edited_mp3,retro_jump_collect_bonus_03_mp3,revive2_mp3,star_sound_final_mp3,thunderbolt_mp3,WhooshesImpacts_Impact_64_edited_mp3",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/leapConfig.json",
+			"type": "json",
+			"name": "leapConfig_json"
+		},
+		{
+			"url": "assets/leap.bin",
+			"type": "bin",
+			"name": "leap"
+		},
+		{
+			"url": "assets/leap_atlas0.png",
+			"type": "image",
+			"name": "leap_atlas0"
+		},
+		{
+			"url": "assets/leap_atlas1.png",
+			"type": "image",
+			"name": "leap_atlas1"
+		},
+		{
+			"url": "assets/sound/back_music.mp3",
+			"type": "sound",
+			"name": "back_music_mp3"
+		},
+		{
+			"url": "assets/sound/black_explosion.mp3",
+			"type": "sound",
+			"name": "black_explosion_mp3"
+		},
+		{
+			"url": "assets/sound/Decrease_swap_1.mp3",
+			"type": "sound",
+			"name": "Decrease_swap_1_mp3"
+		},
+		{
+			"url": "assets/sound/DM-CGS-10_edited.mp3",
+			"type": "sound",
+			"name": "DM-CGS-10_edited_mp3"
+		},
+		{
+			"url": "assets/sound/gravityeffect2.mp3",
+			"type": "sound",
+			"name": "gravityeffect2_mp3"
+		},
+		{
+			"url": "assets/sound/Increase_chord_1_edited.mp3",
+			"type": "sound",
+			"name": "Increase_chord_1_edited_mp3"
+		},
+		{
+			"url": "assets/sound/multiplier2.mp3",
+			"type": "sound",
+			"name": "multiplier2_mp3"
+		},
+		{
+			"url": "assets/sound/newHighScore.mp3",
+			"type": "sound",
+			"name": "newHighScore_mp3"
+		},
+		{
+			"url": "assets/sound/power_1_b_edited.mp3",
+			"type": "sound",
+			"name": "power_1_b_edited_mp3"
+		},
+		{
+			"url": "assets/sound/retro_jump_collect_bonus_03.mp3",
+			"type": "sound",
+			"name": "retro_jump_collect_bonus_03_mp3"
+		},
+		{
+			"url": "assets/sound/revive2.mp3",
+			"type": "sound",
+			"name": "revive2_mp3"
+		},
+		{
+			"url": "assets/sound/star_sound_final.mp3",
+			"type": "sound",
+			"name": "star_sound_final_mp3"
+		},
+		{
+			"url": "assets/sound/thunderbolt.mp3",
+			"type": "sound",
+			"name": "thunderbolt_mp3"
+		},
+		{
+			"url": "assets/sound/WhooshesImpacts_Impact_64_edited.mp3",
+			"type": "sound",
+			"name": "WhooshesImpacts_Impact_64_edited_mp3"
+		}
+	]
+}
