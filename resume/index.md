@@ -6,11 +6,11 @@ description: 我的简历
 
 ><span style="font-size:28px;color:#159957;"><strong>张元涛</strong>&nbsp;<span style="color:#b8b8b8;font-size:16px;">男|1991|厦门|5年经验</span></span><br>
 ><img  style="float:right; margin-left:0.6em;" src="assets/code.jpg"  width="64" height="64" type="image/jpeg">
->&nbsp;教育背景：龙岩学院|本科|软件工程|CET4|数据库工程师四级<br>
->&nbsp;岗位意向：游戏研发工程师<br>
->&nbsp;联系方式：<img src="assets/电话2.png"  width="20" height="20" type="image/jpeg" style="vertical-align: middle;"><img src="assets/微信1.png"  width="20" height="20" type="image/jpeg"  style="vertical-align: middle;">13959290970 
+>教育背景：龙岩学院|本科|软件工程|英语四级|数据库工程师四级<br>
+>岗位意向：游戏研发工程师<br>
+>联系方式：<img src="assets/电话2.png"  width="20" height="20" type="image/jpeg" style="vertical-align: middle;"><img src="assets/微信1.png"  width="20" height="20" type="image/jpeg"  style="vertical-align: middle;">13959290970 
 
-<center><span style="font-size:20px;color:#b8b8b8">//<span style="color:#009999"><strong>工作经历</strong></span></span></center>
+<center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#009999"><strong>工作经历</strong></span>/></span></center>
 
 ><img style="float:right; margin:0.6em 0 0 0.6em;" src="assets/4399.png"  width="64" height="64" type="image/jpeg">
 ><strong style="line-height: 2;"><span style="color:#b8b8b8">2018.4-至今</span>&ensp;<span style="font-size: 19px;color:#159957">四三九九网络股份有限公司</span>&ensp;游戏开发工程师</strong><br>
@@ -36,13 +36,13 @@ description: 我的简历
 >客户端使用AS3，Lua，Unity，服务端使用C#，MySQL。<br>
 >项目经历：《RumbleBurst》《乱战》《波波利小镇》
 
-<center><span style="font-size:20px;color:#b8b8b8">//<span style="color:#009999"><strong>业余时间</strong></span></span></center>
+<center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#009999"><strong>业余时间</strong></span>/></span></center>
 
->在业余期间与朋友探讨创意想法，设计差异化的游戏，制作demo验证玩法。<br>
+>在业余期间与朋友探讨游戏创意，尝试设计差异化游戏，制作demo验证玩法。<br>
 >使用Egret和CocosCreator开发小游戏，熟悉微信、头条小游戏的接入与上线。<br>
 >上线游戏：《经典泡泡龙传奇》《猜灯谜大作战》《飞跃行星》
 
-<center><span style="font-size:20px;color:#b8b8b8">//<span style="color:#009999"><strong>自我评价</strong></span></span></center>
+<center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#009999"><strong>自我评价</strong></span>/></span></center>
 >具备客户端Unity/Flash/Egret/CocosCreator+服务端C#/NodeJS开发经验，能胜任双端开发。<br>
 >熟悉使用Unity、Egret、CocosCreator 进行游戏开发，积累了多类型游戏项目开发经验。<br>
 >熟悉状态同步，帧同步，常见的设计模式，客户端性能优化。<br>
