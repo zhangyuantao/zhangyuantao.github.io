@@ -12,15 +12,15 @@ description: 我的简历
 
 <center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#009999"><strong>工作经历</strong></span>/></span></center>
 
-><img style="float:right; margin:0.6em 0 0 0.6em;" src="assets/4399.png"  width="64" height="64" type="image/jpeg">
+><img style="float:right; margin:0.6em 0 0 0.6em;" src="assets/4399.png"  width="70" height="70" type="image/jpeg">
 ><strong style="line-height: 2;"><span style="color:#b8b8b8">2018.4-至今</span>&ensp;<span style="font-size: 19px;color:#159957">四三九九网络股份有限公司</span>&ensp;游戏开发工程师</strong><br>
 >使用Egret，FairyGUI，DragonBones开发实时网络对战游戏、休闲单机游戏。<br>
 >各项目主要功能技术难点攻关，并形成技术文档。<br>
->任前端组长，参与前端规范完善，开发框架完善，工具组件开发。<br>
+>任前端组长，参与前端规范制定，开发框架完善、工具组件开发。<br>
 >项目经历：《八分音符》《飞跃吧》《射箭对决》《羽毛球高手》《乱战英豪》《天黑请闭眼》《停车达人》《NoThanks》
 
 >---
-><img style="float:right; margin:0.6em 0 0 0.6em;" src="assets/modo.png"  width="64" height="64" type="image/jpeg">
+><img style="float:right; margin:0.6em 0 0 0.6em;" src="assets/modo.png"  width="70" height="70" type="image/jpeg">
 ><strong style="line-height: 2;"><span style="color:#b8b8b8">2017.6-2018.4</span>&ensp;<span style="font-size: 19px;color:#159957">摩多科技有限公司</span>&ensp;游戏开发工程师</strong><br>
 >项目主开发，项目基础框架搭建，主要功能效果实现等开发工作。<br>
 >双端开发，参与游戏的需求分析、设计、编码实现。<br>
@@ -28,9 +28,9 @@ description: 我的简历
 >项目经历：《妖怪来了》《流言侦探》《奇迹H5》
 
 >---
-><img style="float:right; margin:0.6em 0 0 0.6em;" src="assets/gbits.png"  width="64" height="64" type="image/jpeg">
+><img style="float:right; margin:0.6em 0 0 0.6em;" src="assets/gbits.png"  width="70" height="70" type="image/jpeg">
 ><strong style="line-height: 2;"><span style="color:#b8b8b8">2015.2-2017.6</span>&ensp;<span style="font-size: 19px;color:#159957">吉比特网络技术股份有限公司</span>&ensp;游戏开发工程师</strong><br>
->使用Unity参与项目的预研开发，demo制作，技术探索。<br>
+>使用Unity参与项目的预研开发，3D海战等demo制作，技术探索。<br>
 >使用FlashBuilder开发二次元TCG卡牌游戏，项目于日本上线。<br>
 >双端开发，负责前后端功能系统、数据库的设计与实现。<br>
 >客户端使用AS3，Lua，Unity，服务端使用C#，MySQL。<br>
@@ -44,13 +44,12 @@ description: 我的简历
 
 <center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#009999"><strong>自我评价</strong></span>/></span></center>
 >具备客户端Unity/Flash/Egret/CocosCreator+服务端C#/NodeJS开发经验，能胜任双端开发。<br>
->熟悉使用Unity、Egret、CocosCreator 进行游戏开发，积累了多类型游戏项目开发经验。<br>
->熟悉状态同步，帧同步，常见的设计模式，客户端性能优化。<br>
+>熟悉状态同步，帧同步，常见的设计模式，客户端性能优化，积累了多种类型游戏开发经验<br>
 >具备分析解决疑难问题的能力，喜欢钻研游戏技术难点，注重经验总结，习惯归纳整理。<br>
 >良好的开发习惯与编码规范，注重代码设计和质量，致力于开发出高质量易维护游戏。<br>
->勤思考，不盲目执行，注重及时反馈，持续发现及改进工作方法提高工作效率。<br>
->乐于学习和跟进游戏开发相关技术和资讯，希望在职业上持续积累成长。<br>
->态度端正，认真负责，积极主动。人际关系优，喜欢书法、篮球。<br>
+>勤思考不盲目执行，注重及时反馈，持续发现及改进工作方法提高工作效率。<br>
+>乐于学习跟进游戏开发相关技术和资讯，希望在职业上持续积累成长。<br>
+>态度端正，认真负责，积极主动。性格良好，喜欢书法、篮球。<br>
 
 <p id="botInfo">
 <i>
