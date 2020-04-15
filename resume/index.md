@@ -4,10 +4,10 @@ title: Think Different
 description: 我的简历
 ---
 
-><span style="font-size:28px;color:#159957;"><strong>张元涛</strong>&nbsp;<span style="color:#b8b8b8;font-size:16px;">男|1991|厦门|Unity|Egret|Creator|C#|JS|TS</span></span><br>
+><span style="font-size:28px;color:#159957;"><strong>张元涛</strong>&nbsp;<span style="color:#b8b8b8;font-size:16px;">男|1991|厦门</span></span><br>
 >教育背景：龙岩学院|本科|软件工程|英语四级|数据库四级<br>
 ><img style="float:right; margin-left:0.6em;" src="assets/code.jpg"  width="70" height="70" type="image/jpeg">
->技能标签：`Unity` `Egret` `Creator` `C#` `JS` `TS`<br>
+>技能标签：Unity|Egret|Creator|C#|JS|TS<br>
 >岗位意向：游戏研发工程师<br>
 >联系方式：13959290970<br>
 
@@ -39,7 +39,7 @@ description: 我的简历
 
 <center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#009999"><strong>业余时间</strong></span>/></span></center>
 
->在业余期间与朋友探讨游戏创意，尝试设计差异化游戏，制作demo验证玩法。<br>
+>在业余期间与朋友探讨游戏创意，共同制作demo，验证玩法。<br>
 >使用Egret和CocosCreator开发小游戏，熟悉微信、头条小游戏的接入与上线。<br>
 >上线游戏：《经典泡泡龙传奇》《猜灯谜大作战》《飞跃行星》
 
