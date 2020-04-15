@@ -4,7 +4,7 @@ title: Think Different
 description: 我的简历
 ---
 
-><span style="font-size:28px;color:#159957;"><strong>张元涛</strong>&nbsp;<span style="color:#b8b8b8;font-size:16px;">男|1991|厦门</span></span><br>
+><span style="font-size:28px;color:#159957;"><strong>张元涛</strong>&nbsp;<span style="color:#b8b8b8;font-size:16px;">男|1991|厦门|Unity|Egret|Creator|C#|JS|TS</span></span><br>
 >教育背景：龙岩学院|本科|软件工程|英语四级|数据库四级<br>
 ><img style="float:right; margin-left:0.6em;" src="assets/code.jpg"  width="70" height="70" type="image/jpeg">
 >技能标签：`Unity` `Egret` `Creator` `C#` `JS` `TS`<br>
