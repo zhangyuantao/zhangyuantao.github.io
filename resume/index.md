@@ -6,6 +6,7 @@ description: 我的简历
 
 ><span style="font-size:28px;color:#159957;"><strong>张元涛</strong>&nbsp;<span style="color:#b8b8b8;font-size:16px;">男|1991|厦门|5年经验</span></span><br>
 ><img style="float:right; margin-left:0.6em;" src="assets/code.jpg"  width="70" height="70" type="image/jpeg">
+>技能标签：`Unity` `Egret` `CocosCreator` `C#` `JS` `TS`
 >教育背景：龙岩学院|本科|软件工程|英语四级|数据库四级<br>
 >岗位意向：游戏研发工程师<br>
 >联系方式：13959290970<br>
@@ -30,9 +31,9 @@ description: 我的简历
 >---
 ><img style="float:right; margin:0.6em 0 0 0.6em;" src="assets/gbits.png"  width="70" height="70" type="image/jpeg">
 ><strong style="line-height: 2;"><span style="color:#b8b8b8">2015.2-2017.6</span>&ensp;<span style="font-size: 19px;color:#159957">吉比特网络技术股份有限公司</span>&ensp;游戏开发工程师</strong><br>
->使用Unity参与项目的预研开发，3D海战等demo制作，技术探索。<br>
+>使用Unity参与卡牌，农场，海战等项目开发以及demo预研，技术探索。<br>
 >使用FlashBuilder开发二次元TCG卡牌游戏，项目于日本上线。<br>
->双端开发，负责前后端功能系统、数据库的设计与实现。<br>
+>前后端混合开发，负责前后端功能系统、数据库的设计与实现。<br>
 >客户端使用AS3，Lua，Unity，服务端使用C#，MySQL。<br>
 >项目经历：《RumbleBurst》《乱战》《波波利小镇》
 
