@@ -14,7 +14,7 @@ description: 博观而约取，厚积而薄发
 
 ><img style="float:right; margin:0.6em 0 0 0.6em;" src="assets/4399.png"  width="70" height="70" type="image/jpeg">
 ><strong style="line-height: 2;"><span style="color:#b8b8b8">2018.4-至今</span>&ensp;<span style="font-size: 19px;color:#159957">四三九九网络股份有限公司</span>&ensp;游戏研发工程师</strong><br>
->使用Egret，FairyGUI，开发实时网络对战游戏、休闲单机游戏。<br>
+>使用Egret，FairyGUI开发实时网络对战游戏、休闲单机游戏。<br>
 >各项目主要功能技术难点攻关，并形成技术文档。<br>
 >任前端组长，参与前端规范制定，开发框架完善、工具组件开发。<br>
 >项目经历：《八分音符》《飞跃吧》《射箭对决》《羽毛球高手》《乱战英豪》《天黑请闭眼》《停车达人》《NoThanks》
