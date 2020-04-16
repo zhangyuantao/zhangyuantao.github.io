@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Think Different
-description: 博观而约取，厚积而薄发
+description: 做人如果没有理想，跟咸鱼有什么区别？
 ---
 
 ><span style="font-size:28px;color:#159957;"><strong>张元涛</strong></span>&nbsp;<span style="color:#b8b8b8;font-size:16px;">735162787@qq.com</span><br>
@@ -38,7 +38,7 @@ description: 博观而约取，厚积而薄发
 
 <center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#009999"><strong>业余时间</strong></span>/></span></center>
 
->在业余期间与朋友探讨游戏创意，共同制作Demo，验证玩法。<br>
+>在业余期间与美术朋友交流游戏创意，使用Unity和CocosCreator制作Demo验证玩法。<br>
 >使用Egret和CocosCreator开发小游戏，熟悉微信、头条小游戏的接入与上线。<br>
 >上线游戏：《经典泡泡龙传奇》《猜灯谜大作战》《飞跃行星》
 
