@@ -4,10 +4,10 @@ title: Think Different
 description: 博观而约取，厚积而薄发
 ---
 
-><span style="font-size:28px;color:#159957;"><strong>张元涛</strong></span>&nbsp;<span style="color:#b8b8b8;font-size:16px;">13959290970|735162787@qq.com</span><br>
+><span style="font-size:28px;color:#159957;"><strong>张元涛</strong></span>&nbsp;<span style="color:#b8b8b8;font-size:16px;">735162787@qq.com</span><br>
 ><img style="float:right; margin-left:0.6em;" src="assets/code.jpg"  width="70" height="70" type="image/jpeg">
 >教育经历：龙岩学院|本科|软件工程|英语四级|数据库四级<br>
->工具经历：Unity|Flash|Egret|CocosCreator<br>
+>工具经历：Unity|Flash|Egret|Creator<br>
 >语言经历：C#|AS|JS|TS<br>
 
 <center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#009999"><strong>工作经历</strong></span>/></span></center>
