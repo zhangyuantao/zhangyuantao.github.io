@@ -19,7 +19,7 @@ description: 博学之，审问之，慎思之，明辨之，笃行之。
 >任前端组长，参与前端规范制定，开发框架完善、工具组件开发。<br>
 >**项目经历**<br>
 >《八分音符》音控双人对战跑酷<br>
->《飞跃吧》单机休闲<br>
+>《飞跃吧》单机休闲操作类<br>
 >《射箭对决》伪3D射箭对战<br>
 >《羽毛球高手》羽毛球双人对战<br>
 >《乱战英豪》帧同步5V5多人对战<br>
@@ -45,14 +45,13 @@ description: 博学之，审问之，慎思之，明辨之，笃行之。
 >前后端混合开发，负责前后端功能系统、数据库的设计与实现。<br>
 >客户端使用AS3，Lua，Unity，服务端使用C#，MySQL。<br>
 >**项目经历**<br>
->《乱战》三国题材TCG卡牌<br>
+>《乱战》三国武将题材策略卡牌对战<br>
 >《RumbleBurst》二次元风格的乱战日本版<br>
 >《波波利小镇》农场建造经营类手游<br>
 
-<center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#009999"><strong>业余时间</strong></span>/></span></center>
-
->在业余期间与美术朋友交流游戏创意，使用Unity和CocosCreator制作Demo验证玩法。<br>
->使用Egret和Creator开发小游戏，上线微信和头条，熟悉微信、头条小游戏的接入与上线。<br>
+<center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#009999"><strong>业余经历</strong></span>/></span></center>
+>在业余期间与美术朋友交流游戏创意，使用Unity制作Demo验证玩法。<br>
+>使用Egret、Creator开发小游戏并上线，熟悉微信、头条小游戏的接入与上线。<br>
 >**项目经历**<br>
 >《经典泡泡龙传奇》《猜灯谜大作战》《飞跃行星》
 
