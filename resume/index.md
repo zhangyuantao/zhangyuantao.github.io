@@ -12,8 +12,17 @@ description: 博学之，审问之，慎思之，明辨之，笃行之。
 
 <center><span style="font-size:20px;color:#b8b8b8"><<span style="color:#009999"><strong>工作经历</strong></span>/></span></center>
 
+><img style="float:right; margin:0.6em 0 0 0.6em;" src="assets/modo.png"  width="70" height="70" type="image/jpeg">
+><strong style="line-height: 2;"><span style="color:#b8b8b8">2020.5-至今</span>&ensp;<span style="font-size: 19px;color:#159957">摩多科技有限公司</span>&ensp;客户端主程</strong><br>
+>项目功能技术难点攻关，解决疑难杂症。<br>
+>客户端性能优化，保证客户端代码质量。<br>
+>制定、评估开发方案，主导客户端开发。<br>
+>**项目经历**<br>
+>《花之舞》唯美时装古风剧情恋爱手游<br>
+
+>---
 ><img style="float:right; margin:0.6em 0 0 0.6em;" src="assets/4399.png"  width="70" height="70" type="image/jpeg">
-><strong style="line-height: 2;"><span style="color:#b8b8b8">2018.4-至今</span>&ensp;<span style="font-size: 19px;color:#159957">四三九九网络股份有限公司</span>&ensp;游戏研发工程师</strong><br>
+><strong style="line-height: 2;"><span style="color:#b8b8b8">2018.4-2020.5</span>&ensp;<span style="font-size: 19px;color:#159957">四三九九网络股份有限公司</span>&ensp;游戏研发工程师</strong><br>
 >使用Egret，FairyGUI开发实时网络对战游戏、休闲单机游戏。<br>
 >各项目主要功能技术难点攻关，并形成技术文档。<br>
 >任前端组长，参与前端规范制定，开发框架完善、工具组件开发。<br>
